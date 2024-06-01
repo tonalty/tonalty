@@ -1,0 +1,8 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/tonalty/backend.git
+	branch = main
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/tonalty/frontend.git
+	branch = main
