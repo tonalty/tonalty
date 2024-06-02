@@ -1,6 +1,4 @@
 {
-  "eslint.workingDirectories": [
-    "./backend",
-    "./frontend"
-  ]
+  "eslint.workingDirectories": ["./backend", "./frontend"],
+  "files.eol": "\n"
 }
